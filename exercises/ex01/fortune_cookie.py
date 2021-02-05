@@ -13,3 +13,4 @@ from random import randint
 
 
 # Begin your solution here...
+print("Your fortune cookie says...")
